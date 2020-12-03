@@ -17,7 +17,7 @@ or install from requirements.txt
 pip install -r requirements.txt
 ```
 
-## Spin up the server
+## Spin up the backend of the mlflow server (a mysql db server)
 
 after setting the environment variables in `.env` (`source .env`)
 
@@ -25,7 +25,7 @@ after setting the environment variables in `.env` (`source .env`)
 docker-compose
 ```
 
-## Running the backend of the mlflow server (a mysql db server)
+## Running the MLFlow server
 
 On a new terminal (`source .env` if necessary)
 
