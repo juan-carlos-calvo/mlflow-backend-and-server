@@ -25,7 +25,7 @@ after setting the environment variables in `.env` (`source .env`)
 docker-compose
 ```
 
-## Running the server
+## Running the backend of the mlflow server (a mysql db server)
 
 On a new terminal (`source .env` if necessary)
 
